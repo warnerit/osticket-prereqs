@@ -132,6 +132,93 @@ Open Ithe VC_redist.x86 application and also click install on that, this is Micr
 <br />
 
 <p>
+  
+![image](https://github.com/user-attachments/assets/5946e9f5-a803-489a-a80b-c79b49fc0b47)
+
+</p>
+<p>
+Now make the PHP folder in your C drive and select the PHP zip folder to extract to that folder, this will be the files that ticket system uses on the C drive.
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
