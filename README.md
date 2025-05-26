@@ -151,10 +151,12 @@ Now make the PHP folder in your C drive and select the PHP zip folder to extract
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/e26180a0-dc3c-4006-81e2-363648f092fe)
+
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+Go to the IIS, also known as the Internet Information Services and open the PHP manager and click register a new php version, and go to your C drive and find the php.cgi
 
 </p>
 <br />
