@@ -65,7 +65,9 @@ Now that you are connected to your VM you will have to enable IIS. Go and access
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/c6dd7a4e-3f23-4b10-a00a-4e83bec4abea)
+
 </p>
 <p>
 Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
