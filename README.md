@@ -178,7 +178,9 @@ Go to the IIS, also known as the Internet Information Services and open the PHP 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/cd4f8d16-1ea7-48a2-9e99-b60c14fdb87b)
+
 </p>
 <p>
 Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
