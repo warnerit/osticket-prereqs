@@ -202,10 +202,14 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/33079d22-d805-44e3-bd82-377d56373d5b)
+
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+Go back into IIS manager and enable some extensions. To do this you have to go to Sites then Default then to osTicket, after this, double click on PHP manager. Click on "Disable or enable an extension" Enable "php_intl.dll" & "php_opcache.dll" then refresh the osTicket webserver and obsereve the changes "Intl Extension" should now be enabled.
+
+
 
 </p>
 <br />
