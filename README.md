@@ -228,6 +228,17 @@ Go back into IIS manager and enable some extensions. To do this you have to go t
 
 </p>
 <p>
-Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance, go to Removeall New Permissions, Everyone, then all
+Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance, go to Removeall New Permissions, Everyone, then all.
+</p>
+<br />
+
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/91eb4439-adbc-450c-944a-b9166204c59c)
+
+</p>
+<p>
+After this you will be able to setup osTicket from right there in the broswer on the webpage, and you can choose what ewmail you want so that customers are able to reach out and interact through the tickets they send. after setting up everything on the website page the ticketing system is ready. Congratuations!
 </p>
 <br />
