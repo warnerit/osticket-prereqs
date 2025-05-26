@@ -30,10 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/e36639fa-fdc4-4fc4-9e73-b7095aa0ce64)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Microsoft Azure and open virtual machines, click on create a new virtual machine, and create a Windows 10 VM with at least 2-4 vCPUs and 8 GB of memory, once you do that you can make a username and password to login to the virtual machine.
+
+
 </p>
 <br />
 
