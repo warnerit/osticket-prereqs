@@ -116,10 +116,13 @@ Next you will want to download the "rewrite_amd64_en-US application which is als
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/ee167e8b-3771-4452-97a8-936656b8a9a5)
+
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+Open Ithe VC_redist.x86 application and also click install on that, this is Microsoft Visual C++ which is neccessary for this installation.
+
 
 </p>
 <br />
