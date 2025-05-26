@@ -147,9 +147,6 @@ Now make the PHP folder in your C drive and select the PHP zip folder to extract
 <br />
 
 
-</p>
-<br />
-
 <p>
   
 ![image](https://github.com/user-attachments/assets/e26180a0-dc3c-4006-81e2-363648f092fe)
@@ -165,10 +162,6 @@ Go to the IIS, also known as the Internet Information Services and open the PHP 
 </p>
 <br />
 
-
-
-</p>
-<br />
 
 <p>
   
@@ -198,9 +191,6 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 <br />
 
 
-</p>
-<br />
-
 <p>
   
 ![image](https://github.com/user-attachments/assets/33079d22-d805-44e3-bd82-377d56373d5b)
@@ -218,9 +208,6 @@ Go back into IIS manager and enable some extensions. To do this you have to go t
 </p>
 <br />
 
-
-</p>
-<br />
 
 <p>
   
