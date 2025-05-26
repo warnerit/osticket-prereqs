@@ -101,10 +101,12 @@ Next download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/c497ce84-d798-4feb-8896-137602abf115)
+
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+Next you will want to download the "rewrite_amd64_en-US application which is also know as IIS URL Rewrite Module 2.
 
 </p>
 <br />
