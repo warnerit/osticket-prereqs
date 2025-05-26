@@ -166,13 +166,6 @@ Go to the IIS, also known as the Internet Information Services and open the PHP 
 <br />
 
 
-</p>
-<br />
-
-
-</p>
-<br />
-
 
 </p>
 <br />
