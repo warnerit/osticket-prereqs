@@ -121,7 +121,7 @@ Next you will want to download the "rewrite_amd64_en-US application which is als
 
 </p>
 <p>
-Open Ithe VC_redist.x86 application and also click install on that, this is Microsoft Visual C++ which is neccessary for this installation.
+Open the VC_redist.x86 application and also click install on that, this is Microsoft Visual C++ which is neccessary for this installation.
 
 
 </p>
@@ -169,6 +169,14 @@ Go to the IIS, also known as the Internet Information Services and open the PHP 
 </p>
 <br />
 
+
+</p>
+<br />
+
+
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -178,13 +186,6 @@ Next download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 </p>
 <br />
 
-
-</p>
-<br />
-
-
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
