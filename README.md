@@ -226,6 +226,6 @@ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the
 
 </p>
 <p>
-After this you will be able to setup osTicket from right there in the broswer on the webpage, and you can choose what ewmail you want so that customers are able to reach out and interact through the tickets they send. after setting up everything on the website page the ticketing system is ready. Congratuations!
+After this you will be able to setup osTicket from right there in the broswer on the webpage, and you can choose what email you want so that customers are able to reach out and interact through the tickets they send. after setting up everything on the website page the ticketing system is ready. Congratuations!
 </p>
 <br />
